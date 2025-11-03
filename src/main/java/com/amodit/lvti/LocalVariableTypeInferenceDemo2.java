@@ -19,7 +19,8 @@ public class LocalVariableTypeInferenceDemo2 {
 		System.out.println(name);
 		System.out.println(y);
 		System.out.println(z);
-
+        // line added at 22 
+		//  line added at 23
 		
 
 	}
