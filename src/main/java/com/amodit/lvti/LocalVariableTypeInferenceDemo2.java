@@ -4,6 +4,7 @@ public class LocalVariableTypeInferenceDemo2 {
 	
 	//var num = 10;// var is not allowed here
 	// copied the code from LocalVariableTypeInferenceDemo 
+        // added this line
 	public static void main(String[] args) {
 		
 		var x = 10;
