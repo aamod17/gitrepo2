@@ -19,6 +19,9 @@ public class LocalVariableTypeInferenceDemo2 {
 		System.out.println(name);
 		System.out.println(y);
 		System.out.println(z);
+		
+		// local variable type inference
+		// added for git reset
 
 		
 
